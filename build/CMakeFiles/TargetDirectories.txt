@@ -1,0 +1,3 @@
+D:/FileGuard/build/CMakeFiles/fileguard.dir
+D:/FileGuard/build/CMakeFiles/edit_cache.dir
+D:/FileGuard/build/CMakeFiles/rebuild_cache.dir
